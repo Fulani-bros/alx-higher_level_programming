@@ -21,4 +21,3 @@ class Square:
 
 if __name__ == "__main__":
     Square()
-
