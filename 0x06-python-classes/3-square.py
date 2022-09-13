@@ -14,11 +14,11 @@ class Square:
         else:
             self.__size = size
 
-            def area(self):
-                """Area of the square."""
-                return (self.__size)**2
+    def area(self):
+        """Area of the square."""
+        return (self.__size)**2
 
 
-            if __name__ == "__main__":
-                Square()
-    
+if __name__ == "__main__":
+    Square()
+
